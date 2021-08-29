@@ -1,0 +1,11 @@
+{
+    "weather": {
+        "temperature": 22,
+        "humidity_percent": 65,
+        "sky": [
+            "clear",
+            "cloudy",
+            "mostly_clear"
+        ]
+    }
+}
