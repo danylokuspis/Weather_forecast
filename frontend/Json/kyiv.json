@@ -2,10 +2,6 @@
     "weather": {
         "temperature": 25,
         "humidity_percent": 65,
-        "sky": [
-            "clear",
-            "cloudy",
-            "mostly_clear"
-        ]
+        "sky": "clear"  
     }
 }
