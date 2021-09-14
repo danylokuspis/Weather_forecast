@@ -1,0 +1,12 @@
+{
+    "cities": [
+        {
+            "name":"lviv",
+            "id": 1
+        },
+        {
+            "name":"kyiv",
+            "id": 2
+        }
+    ]
+}
